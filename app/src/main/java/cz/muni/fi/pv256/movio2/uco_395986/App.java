@@ -4,9 +4,6 @@ import android.app.Application;
 import android.os.Build;
 import android.os.StrictMode;
 
-/**
- * Created by Sqee on 5.10.2017.
- */
 public class App extends Application {
 
     @Override
